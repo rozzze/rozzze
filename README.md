@@ -36,8 +36,6 @@ Busco mejorar cada día mis habilidades técnicas y de diseño de sistemas, impl
 |--------------|----------------|----------------|
 | **Mesa de Partes** | Sistema institucional con roles, notificaciones, y control documental en tiempo real. | Laravel 12 · Livewire · MySQL · Tailwind |
 | **Biblioteca Web** | Gestión de préstamos, búsqueda avanzada con TNTSearch, exportación Excel/PDF, y QR. | Laravel · Spatie · Livewire · Excel |
-| **Cars Escape** | Sistema de concesionario con módulos de ventas, stock y traslados. | Laravel · MySQL · Livewire |
-| **ParkiGes** | SaaS para gestión de estacionamientos con panel de administración y analítica Power BI. | Laravel · Tailwind · Power BI |
 
 ---
 
