@@ -98,19 +98,14 @@ Busco mejorar cada día mis habilidades técnicas y de diseño de sistemas, impl
 ### 🤝 Conecta Conmigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/miguelisac" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/miguelisacdev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:miguelisac.dev@gmail.com">
+  <a href="mailto:hanccoismael07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://wa.me/51978638917" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
-
 ---
 
 <p align="center">
